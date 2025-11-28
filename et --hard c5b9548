@@ -1,0 +1,7 @@
+[33mfb4fe42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/welcome[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: checkout: moving from main to feat/welcome
+[33mfb4fe42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/welcome[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from feat/welcome to main
+[33mc5b9548[m HEAD@{2}: commit: Implemented welcome page
+[33mfb4fe42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/welcome[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from main to feat/welcome
+[33mfb4fe42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/welcome[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: commit (merge): Resolve merge
+[33m72f9484[m HEAD@{5}: Branch: renamed refs/heads/master to refs/heads/main
+[33m72f9484[m HEAD@{7}: commit (initial): Created navbar for my MacOS Protfolio
